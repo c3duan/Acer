@@ -48,3 +48,6 @@ First Ever Unity Game build by following the online tutorial
 - Player_Vehicle
 
 # Screenshots of GamePlay
+- In Game Demo:
+<img width="465" alt="screen shot 2018-06-01 at 1 10 29 pm" src="https://user-images.githubusercontent.com/33473131/40861854-661de16a-659f-11e8-83ea-66dd77352734.png">
+- Game Over:
