@@ -47,10 +47,11 @@ First Ever Unity Game build by following the online tutorial
 - Enemy_Vehicle
 - Player_Vehicle
 
-# Screenshots of GamePlay
-* In Game Demo:
+# In Game Demo:
 <img width="465" alt="screen shot 2018-06-01 at 1 10 29 pm" src="https://user-images.githubusercontent.com/33473131/40861854-661de16a-659f-11e8-83ea-66dd77352734.png">
-* Game Over:
+
+# Game Over:
 <img width="467" alt="screen shot 2018-06-01 at 1 10 38 pm" src="https://user-images.githubusercontent.com/33473131/40861901-99e5a03c-659f-11e8-8b4c-aa742bf44efe.png">
-* Game Layout:
+
+# Game Layout:
 <img width="430" alt="screen shot 2018-06-01 at 1 11 03 pm" src="https://user-images.githubusercontent.com/33473131/40861902-9ad6c976-659f-11e8-814c-3e9a7c7ae73b.png">
